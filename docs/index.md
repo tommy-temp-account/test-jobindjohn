@@ -1,6 +1,8 @@
 # Proof of Concept docs
 
-Publish your public notes with MkDocs
+this is index.md, your site home
+
+[Lost? go back home](/)
 
 ## world hello!
 
@@ -18,6 +20,11 @@ holdthis
 ### 3rd header
 
 > comment
+
+#### [[unique-name|links-in-headers]]
+
+> testing links in headers
+
 
 ### 3rd header 2
 
