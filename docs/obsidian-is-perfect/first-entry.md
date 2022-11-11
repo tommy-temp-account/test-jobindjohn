@@ -1,4 +1,4 @@
-# Header 1
+# header-1-becomes-page-name
 
 > obsidian is better than everything
 ```sh
@@ -12,3 +12,7 @@ print('hello world')
 ```
 
 [[ Untitled| testing]]
+
+
+[[test-jobindjohn/docs/Untitled-2]]
+
