@@ -1,8 +1,8 @@
-# Proof of Concept docs
+# Project-Home
 
 this is index.md, your repos's home
 
-[Lost? go back home](/)
+[Lost? go back to account home](/)
 
 ## world hello!
 
