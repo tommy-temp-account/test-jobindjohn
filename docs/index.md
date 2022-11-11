@@ -1,6 +1,6 @@
 # Proof of Concept docs
 
-this is index.md, your site home
+this is index.md, your repos's home
 
 [Lost? go back home](/)
 

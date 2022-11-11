@@ -1,4 +1,4 @@
-# header-1-becomes-page-name
+# first-entry | header-1-becomes-page-name
 
 > obsidian is better than everything
 ```sh
